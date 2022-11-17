@@ -158,7 +158,7 @@ Navigation Bar
   font-size: 2rem;
   color: var(--main-color-light--);
   cursor: pointer;
-  transition: all 0.4s;
+  transition: all 0.3s;
 }
 .nav--icon--box {
   display: none;
@@ -181,7 +181,7 @@ Navigation Bar Mobile
     flex-direction: column;
     text-align: center;
     padding: 10rem 0;
-    transition: all 0.4s;
+    transition: all 0.3s;
   }
 
   .nav--item {
